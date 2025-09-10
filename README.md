@@ -118,7 +118,7 @@ Create project-specific batch files:
 ```cmd
 @echo off
 echo Starting work on NSI projects...
-gmg -folder "D:\InTimeTec\NSI\Support"
+gmg -folder "D:\Support"
 pause
 ```
 
